@@ -20,3 +20,4 @@ onnxruntime-gpu
 onnx
 pandas
 optimum
+psutil
