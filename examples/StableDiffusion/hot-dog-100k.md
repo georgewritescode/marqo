@@ -1,4 +1,4 @@
-# Combining stable diffusion with semantic search to tag and query images at scale
+# Do AI's dream of electric hotdogs?
 
 There has been an incredible advancement in image generation recently. One of the latest examples of this is [Stable Diffusion](https://github.com/CompVis/stable-diffusion#diffusers-integration). You provide a natural language prompt - *"A photo of a hot dog"* - and out comes a high fidelity image matching the caption . Given this great technological development, I decided to generate 100,000 images of hot dogs so you don't have to (the full code for this article is [here](https://github.com/marqo-ai/marqo/blob/mainline/examples/StableDiffusion/hot-dog-100k.py) and the dataset [here](https://drive.google.com/file/d/16_1MlX9GH-6v060jYA23eTJwH74fSU4L/view?usp=sharing)).
 
@@ -214,3 +214,7 @@ After we have done this walk we have the "sorted" list of images. These can then
 
 ## Closing thoughts
 Its amazing to watch the progress in image generation and the multi-modality of it all. The fidelity of the images is incredible and the ability to maniuplate images via prompt engineering is very interesting. Of particular interest is  how this will impact search given their shared models. If you are interested in this check out [Marqo](https://github.com/marqo-ai/marqo) for yourself and [sign up](https://q78175g1wwa.typeform.com/to/d0PEuRPC) for the cloud beta.
+
+<p align="center">
+  <img src="Images/electric.png"/>
+</p>
